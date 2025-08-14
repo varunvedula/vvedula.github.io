@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/varunvedula/vvedula.github.io/main/Assets/IMG_5333_jpg%20(1).jpg" 
-     alt="Varun Vedula" 
-     width="200" 
-     style="border-radius:50%;">
-
 # Hi, I'm Varun Vedula 👋
 **Business Analytics graduate | Data-Driven Decision Making | Strategy & Operations**
 
